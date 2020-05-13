@@ -1,3 +1,5 @@
+This app was created with the Yelp API to search through restuarants near you and sort by best match, highest rated, and most reviewed. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
